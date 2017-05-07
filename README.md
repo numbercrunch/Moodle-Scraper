@@ -22,7 +22,7 @@ open SETTINGS
 ```
 
 This will open the `SETTINGS` file:
-**IMPORTANT **: edit only in the following way:
+**IMPORTANT**: edit only in the following way:
 
 USERNAME
 
@@ -44,4 +44,4 @@ python3 moodle_scraper
 - [x] implement course selection through code ID
 - [x] implement file structure organization in directories: pre or postdownload?
 - [ ] create installer file for `setuptools.py`
-- [ ] checking if file downloaded completed successfully by using a log file: filename added to log after all chunks have been downloaded
+- [ ] checking if file downloaded completed successfully by using a log file: filename added to log after all chunks have been downloaded
