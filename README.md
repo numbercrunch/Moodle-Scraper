@@ -45,3 +45,4 @@ python3 moodle_scraper
 - [x] implement file structure organization in directories: pre or postdownload?
 - [ ] create installer file for `setuptools.py`
 - [ ] checking if file downloaded completed successfully by using a log file: filename added to log after all chunks have been downloaded
+- [ ] Docker Image that runs scheduled in the background and syncs with local filesystem
