@@ -1,0 +1,13 @@
+MANIFEST.in
+description.txt
+keywords.txt
+pip-delete-this-directory.txt
+requirements.txt
+setup.cfg
+setup.py
+version.txt
+public.egg-info/PKG-INFO
+public.egg-info/SOURCES.txt
+public.egg-info/dependency_links.txt
+public.egg-info/requires.txt
+public.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+download/
+ghostdriver.log
+*.pyc
+.DS_Store
+2017-1/
+SETTINGS
