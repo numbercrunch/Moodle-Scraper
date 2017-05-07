@@ -10,7 +10,7 @@ To install on Mac or Linux open `Terminal` and navigate to the directory where y
 ```bash
 cd Documents
 
-git install https://github.com/Moritz-M/moodle_scraper.git
+git clone https://github.com/Moritz-M/moodle_scraper.git
 ```
 
 This may take a long time as embedded in the source code is a headless browser (PhantomJS webkit).
